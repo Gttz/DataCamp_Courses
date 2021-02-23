@@ -1,2 +1,3 @@
-# DataCamp_Courses
-Conteúdos do curso 'Data Scientist with Python' na plataforma DataCamp
+<p align="center">
+  <img src="https://github.com/Gttz/DataCamp_Courses/blob/main/images/DS_Course.PNG" >
+</p>
