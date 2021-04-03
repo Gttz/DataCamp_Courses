@@ -16,3 +16,4 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
 | `A Network Analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+| `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
