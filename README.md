@@ -17,3 +17,4 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
 | `A Network Analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
 | `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
+| `Analyzing Netflix Data` | Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data! |
