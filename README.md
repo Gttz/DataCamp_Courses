@@ -21,3 +21,4 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Exploring the Bitcoin Cryptocurrency Market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
+| `Exploring the Evolution of Linux` | Find out about the evolution of the Linux operating system by exploring its version control system. |
