@@ -22,3 +22,4 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
 | `Exploring the Evolution of Linux` | Find out about the evolution of the Linux operating system by exploring its version control system. |
+| `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
