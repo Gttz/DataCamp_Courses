@@ -24,3 +24,4 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Exploring the Evolution of Linux` | Find out about the evolution of the Linux operating system by exploring its version control system. |
 | `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
+| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
