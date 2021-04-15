@@ -25,3 +25,6 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
+| `Comparing Cosmetics by Ingredients` | Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh. |
+| `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
+
