@@ -27,4 +27,5 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `Comparing Cosmetics by Ingredients` | Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
-
+| `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
+| `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
