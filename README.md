@@ -29,3 +29,5 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
+| `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
+| `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
