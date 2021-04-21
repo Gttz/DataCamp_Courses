@@ -31,3 +31,5 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
+| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
+| `Extract Stock Sentiment from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
