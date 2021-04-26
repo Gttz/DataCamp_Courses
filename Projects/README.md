@@ -6,30 +6,38 @@
 
 These are all the projects that I am working/worked as a part of my journey in Datacamp and here is [my profile](https://www.datacamp.com/profile/Gttz)
 
-### Python
-| Project | Description |
-| --- | --- |
-| `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-| `Analyzing TV Data` | Use data manipulation and visualization to explore the hit sitcom The Office! |
-| `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
-| `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
-| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
-| `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
-| `A Network Analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
-| `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
-| `Analyzing Netflix Data` | Foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data! |
-| `Exploring the Bitcoin Cryptocurrency Market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
-| `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
-| `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
-| `Exploring the Evolution of Linux` | Find out about the evolution of the Linux operating system by exploring its version control system. |
-| `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
-| `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
-| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
-| `Comparing Cosmetics by Ingredients` | Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh. |
-| `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
-| `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
-| `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
-| `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
-| `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
-| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
-| `Extract Stock Sentiment from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
+### Python Analysis
+| Project | Description | Solution |
+| --- | --- | --- |
+| `A Network Analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. | [GOT_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/A%20Network%20Analysis%20of%20Game%20of%20Thrones/GOT_Analysis.ipynb)
+| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. | [Baseball_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/Baseball_Analysis.ipynb) 
+| `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? | [Nobel_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/Nobel_Analysis.ipynb)
+| `Analyzing Netflix Data` | Foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data! | [Netflix_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Analyzing%20Netflix%20Data/Netflix_Analysis.ipynb)
+| `Analyzing TV Data` | Use data manipulation and visualization to explore the hit sitcom The Office! | [TV_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Analyzing%20TV%20Data/TV_Analysis.ipynb)
+| `Comparing Cosmetics by Ingredients` | Process ingredient lists for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh. | [Cosmetics_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Comparing%20Cosmetics%20by%20Ingredients/Cosmetics_Analysis.ipynb)
+| `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. | [Left-handed_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Do%20Left-handed%20People%20Really%20Die%20Young_/Left-handed_Analysis.ipynb)
+| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. | [Handwashing_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/Handwashing_Analysis.ipynb)
+| `Exploring the Bitcoin Cryptocurrency Market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. | [Bitcoin_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/Bitcoin_Analysis.ipynb)
+| `Exploring the Evolution of Linux` | Find out about the evolution of the Linux operating system by exploring its version control system. | [Linux_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Exploring%20the%20Evolution%20of%20Linux/Linux_Analysis.ipynb)
+| `Extract Stock Sentiment from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. | [Sentiment_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Extract%20Stock%20Sentiment%20from%20News%20Headlines/Sentiment_Analysis.ipynb)
+| `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. | [CookieCats_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats/CookieCats_Analysis.ipynb)
+| `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. | [GhostMap_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Recreating%20John%20Snow%27s%20Ghost%20Map/GhostMap_Analysis.ipynb)
+| `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? | [Traffic_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Reducing%20Traffic%20Mortality%20in%20the%20USA/Traffic_Analysis.ipynb)
+| `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. | [SharpeRatio_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Risk%20and%20Returns%20The%20Sharpe%20Ratio/SharpeRatio_Analysis.ipynb)
+| `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. | [App_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/The%20Android%20App%20Market%20on%20Google%20Play/App_Analysis.ipynb)
+| `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. | [Scala_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language/Scala_Analysis.ipynb)
+| `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. | [Bank_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Which%20Debts%20Are%20Worth%20the%20Bank%27s%20Effort/Bank_Analysis.ipynb)
+
+## Python Machine Learning & Deep Learning Predicting
+| Project | Description | Solution |
+| --- | --- | --- |
+| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. | []()
+| `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. | [Song_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Classify%20Song%20Genres%20from%20Audio%20Data/Song_Prediction.ipynb)
+| `Disney Movies and Box Office Success` | Explore Disney movie data, then build a linear regression model to predict box office success. | []()
+| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. | []()
+| `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. | [BloodDonation_Predicting](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Give%20Life%20Predict%20Blood%20Donations/BloodDonation_Predicting.ipynb)
+| `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. | [Game_Gender_Predicting](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Name%20Game%20Gender%20Prediction%20using%20Sound/Game_Gender_Predicting.ipynb)
+| `Naïve Bees: Image Loading and Processing` | Build a machine learning model to predict if a credit card application will get approved. | []()
+| `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. | []()
+| `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. | []()
+| `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! | [TweetPresident_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Who%27s%20Tweeting%20Trump%20or%20Trudeau/TweetPresident_Prediction.ipynb)
