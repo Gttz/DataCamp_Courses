@@ -1,10 +1,10 @@
 # My DataCamp Projects
 
 <p align="center"> 
-<img src="https://www.datacamp.com/datacamp.png?v=20102020" width="500">
+<img src="https://i.ibb.co/kMCv8Zd/1.png" width="500">
 </p>
 
-These are all the projects that I am working/worked as a part of my journey in Datacamp and here is [my profile](https://www.datacamp.com/profile/Gttz)
+These are all the projects that I am working/worked as a part of my journey in Datacamp.
 
 ### Python Analysis
 | Project | Description | Solution |
@@ -28,16 +28,22 @@ These are all the projects that I am working/worked as a part of my journey in D
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. | [Scala_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/The%20GitHub%20History%20of%20the%20Scala%20Language/Scala_Analysis.ipynb)
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. | [Bank_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Which%20Debts%20Are%20Worth%20the%20Bank%27s%20Effort/Bank_Analysis.ipynb)
 
-## Python Machine Learning & Deep Learning Predicting
+### Python Machine Learning & Deep Learning Predicting
 | Project | Description | Solution |
 | --- | --- | --- |
-| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. | []()
+| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. | [ASL_CNN_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/ASL%20Recognition%20with%20Deep%20Learning/ASL_CNN_Prediction.ipynb)
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. | [Song_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Classify%20Song%20Genres%20from%20Audio%20Data/Song_Prediction.ipynb)
-| `Disney Movies and Box Office Success` | Explore Disney movie data, then build a linear regression model to predict box office success. | []()
-| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. | []()
+| `Disney Movies and Box Office Success` | Explore Disney movie data, then build a linear regression model to predict box office success. | [DisneyMovies_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Disney%20Movies%20and%20Box%20Office%20Success/DisneyMovies_Prediction.ipynb)
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. | [BloodDonation_Predicting](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Give%20Life%20Predict%20Blood%20Donations/BloodDonation_Predicting.ipynb)
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. | [Game_Gender_Predicting](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Name%20Game%20Gender%20Prediction%20using%20Sound/Game_Gender_Predicting.ipynb)
-| `Naïve Bees: Image Loading and Processing` | Build a machine learning model to predict if a credit card application will get approved. | []()
-| `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. | []()
-| `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. | []()
+| `Naïve Bees: Image Loading and Processing` | Build a machine learning model to predict if a credit card application will get approved. | [NaiveBees_Processing](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Na%C3%AFve%20Bees%20Image%20Loading%20and%20Processing/NaiveBees_Processing.ipynb)
+| `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. | [NaiveBees_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Na%C3%AFve%20Bees%20Predict%20Species%20from%20Images/NaiveBees_Prediction.ipynb)
+| `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. | [NaiveBess_CNN_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Na%C3%AFve%20Bees%20Deep%20Learning%20with%20Images/NaiveBess_CNN_Prediction.ipynb)
 | `Who's Tweeting? Trump or Trudeau?` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! | [TweetPresident_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Who%27s%20Tweeting%20Trump%20or%20Trudeau/TweetPresident_Prediction.ipynb)
+
+### Natural language processing (NLP)
+| Project | Description | Solution |
+| --- | --- | --- |
+| `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species. | []()
+| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. | []()
+| `Word Frequency in Classic Novels` | Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie. | []()
