@@ -44,6 +44,6 @@ These are all the projects that I am working/worked as a part of my journey in D
 ### Natural language processing (NLP)
 | Project | Description | Solution |
 | --- | --- | --- |
-| `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species. | []()
-| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. | []()
-| `Word Frequency in Classic Novels` | Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie. | []()
+| `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species. | [Book_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Book%20Recommendations%20from%20Charles%20Darwin/Book_Prediction.ipynb)
+| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. | [Movie_Prediction](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Find%20Movie%20Similarity%20from%20Plot%20Summaries/Movie_Prediction.ipynb)
+| `Word Frequency in Classic Novels` | Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie. | [WordFrequency_Analysis](https://nbviewer.jupyter.org/github/Gttz/DataCamp_Courses/blob/main/Projects/Word%20Frequency%20in%20Classic%20Novels/WordFrequency_Analysis.ipynb)
